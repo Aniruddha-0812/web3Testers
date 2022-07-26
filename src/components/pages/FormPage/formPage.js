@@ -33,7 +33,7 @@ export const FormPage = () => {
 
   const content = `I joined @web3testers waitlist. 🥳 Excited to start my passive income journey by testing the web3 products.
 
-  Join here: http://web3tester.xyz`;
+  Join here: https://web3tester.xyz`;
   const firebase = useContext(BaseContext);
   const style = {
     position: "absolute",
